@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive - Swinburne University\Intro to AI\Assignment 1\WallE\WallE\bin\Debug\WallE.exe.config
+C:\Users\chris\OneDrive - Swinburne University\Intro to AI\Assignment 1\WallE\WallE\bin\Debug\WallE.exe
+C:\Users\chris\OneDrive - Swinburne University\Intro to AI\Assignment 1\WallE\WallE\bin\Debug\WallE.pdb
+C:\Users\chris\OneDrive - Swinburne University\Intro to AI\Assignment 1\WallE\WallE\obj\Debug\WallE.csprojAssemblyReference.cache
+C:\Users\chris\OneDrive - Swinburne University\Intro to AI\Assignment 1\WallE\WallE\obj\Debug\WallE.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive - Swinburne University\Intro to AI\Assignment 1\WallE\WallE\obj\Debug\WallE.exe
+C:\Users\chris\OneDrive - Swinburne University\Intro to AI\Assignment 1\WallE\WallE\obj\Debug\WallE.pdb
